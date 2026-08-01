@@ -35,4 +35,4 @@ A 3-page dashboard analyzing King County house sales data.
 These projects were completed as part of the CodeAlpha Data Analytics Internship, focusing on data cleaning, DAX measure creation, and interactive dashboard design in Power BI.
 
 ## 🔗 Connect
-Feel free to connect with me on [LinkedIn](your-linkedin-url-here) to see the walkthrough videos for each task.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asit-lowanshi-94354a228/?skipRedirect=true) to see the walkthrough videos for each task.
